@@ -1,6 +1,7 @@
 public class Printer {
+    public String hello = "Hello Clevertec!!!";
     void print() {
-        System.out.println("Hello Clevertec!!!");
+        System.out.println(hello);
     }
 
 }
